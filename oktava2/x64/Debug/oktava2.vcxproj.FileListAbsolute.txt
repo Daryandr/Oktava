@@ -1,0 +1,3 @@
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\x64\Debug\oktava2.vcxproj.AssemblyReference.cache
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\x64\Debug\oktava2.MyForm.resources
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\x64\Debug\oktava2.vcxproj.GenerateResource.cache

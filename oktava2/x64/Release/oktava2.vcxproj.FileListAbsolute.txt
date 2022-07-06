@@ -1,0 +1,2 @@
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\x64\Release\oktava2.MyForm.resources
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\x64\Release\oktava2.vcxproj.GenerateResource.cache

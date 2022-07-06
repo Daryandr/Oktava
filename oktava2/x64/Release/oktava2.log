@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\MyForm.h(1630,1): warning C4312: <function-style-cast>: преобразование из "ULONG" в "PVOID" большего размера
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\MyForm.h(1737,14): warning C4244: return: преобразование "unsigned short" в "unsigned char", возможна потеря данных
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\MyForm.h(1788,31): warning C4838: Преобразование из "char" в "unsigned char" требует сужающего преобразования.
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\MyForm.h(1790,34): warning C4838: Преобразование из "char" в "unsigned char" требует сужающего преобразования.
+F:\Даша ПК\Documents\VSprojects\new\oktava2\oktava2\MyForm.h(2257,26): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  oktava2.vcxproj -> F:\Даша ПК\Documents\VSprojects\new\oktava2\x64\Release\oktava2.exe
